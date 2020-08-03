@@ -1,0 +1,11 @@
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\bin\Debug\IA.exe.config
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\bin\Debug\IA.exe
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\bin\Debug\IA.pdb
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.csprojAssemblyReference.cache
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.Form1.resources
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.Properties.Resources.resources
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.csproj.GenerateResource.cache
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.exe
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.pdb
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.Forms.PreguntasForm.resources
+C:\Users\Emmanuel Guardado\source\repos\IA\IA\obj\Debug\IA.csproj.CoreCompileInputs.cache
